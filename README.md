@@ -35,7 +35,7 @@ O curso tem como objetivo apresentar os principais conceitos de controle de vers
 - git push - Envia alterações para o repositório remoto
 - git pull - Busca e integra alterações do repositório remoto
 
-## 📈 Objetivos de aprendizagem
+## 📈 Objetivos
 - Compreender os fundamentos do controle de versão.
 - Utilizar os principais comandos do Git.
 - Criar e gerenciar repositórios no GitHub.
